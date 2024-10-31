@@ -1,0 +1,15 @@
+{
+  "name": "accolades",
+  "version": "1.0.0",
+  "description": "osrs clan api help",
+  "main": "index.js",
+  "scripts": {
+    "start": "node getDetails.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Coty Embry",
+  "license": "MIT",
+  "dependencies": {
+    "@wise-old-man/utils": "^3.3.6"
+  }
+}
